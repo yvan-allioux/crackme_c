@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-  int mdp = 0; // On initialise la variable à 0
+  int mdp = 0; // On initialise la variable à 0.
   
   printf("mot de pass ");
   scanf("%d", &mdp); // On demande d'entrer l'âge avec scanf

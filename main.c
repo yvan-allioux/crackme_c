@@ -7,12 +7,12 @@ int main(int argc, char *argv[])
   
   printf("mot de pass ");
   scanf("%d", &mdp); // On demande d'entrer l'âge avec scanf
-  if(mdp==1234){
+  if(mdp==7){
     printf("ok");
   }else{
   printf("pas ok");
   }
-  scanf("%d", &mdp);
+  //scanf("%d", &mdp);
        
   return 0;
 }
